@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-I am @matthewshirley working as a QA Engineer @ [Greenspace Mental Health](https://greenspacehealth.ca). Skilled in Ruby, Python, Javascript and React + React Native. Living in [Vancouver, Canada](https://goo.gl/maps/bAoi9GqUeXHHtKBs5) 🇨🇦 and proudly from [Melbourne, Australia](https://goo.gl/maps/AbtkVqMzMwvt8Ejz9) 🇦🇺.
+I am @matthewshirley. I'm a QA Engineer @ [Greenspace Mental Health](https://greenspacehealth.ca). Skilled in Ruby, Python, Javascript and React + React Native. Living in [Vancouver, Canada](https://goo.gl/maps/bAoi9GqUeXHHtKBs5) 🇨🇦 and proudly from [Melbourne, Australia](https://goo.gl/maps/AbtkVqMzMwvt8Ejz9) 🇦🇺.
 
 - 💬 Ask me about: ⛷ or 🥾
 - 😄 Pronouns: He/Him

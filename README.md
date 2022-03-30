@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-I am @matthewshirley. I'm a QA Engineer @ [Greenspace Mental Health](https://greenspacehealth.ca). Experience with Python, Javascript and Ruby. Living in [Vancouver, Canada](https://goo.gl/maps/bAoi9GqUeXHHtKBs5) 🇨🇦 and from [Melbourne, Australia](https://goo.gl/maps/AbtkVqMzMwvt8Ejz9) 🇦🇺.
+I'm a Developer @ [Greenspace Mental Health](https://greenspacehealth.ca). Experience with Python, Javascript and Ruby. Living in [Vancouver, Canada](https://goo.gl/maps/bAoi9GqUeXHHtKBs5) 🇨🇦 and from [Melbourne, Australia](https://goo.gl/maps/AbtkVqMzMwvt8Ejz9) 🇦🇺.
 
 #### 📫 Get in touch
 

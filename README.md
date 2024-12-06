@@ -1,10 +1,6 @@
 ### Hi there 👋
 ---
 
-I'm a Developer @ [Greenspace Mental Health](https://greenspacehealth.ca). Experience with Python, Javascript and Ruby. Living in [Vancouver, Canada](https://goo.gl/maps/bAoi9GqUeXHHtKBs5) 🇨🇦 and from [Melbourne, Australia](https://goo.gl/maps/AbtkVqMzMwvt8Ejz9) 🇦🇺.
+I'm a Developer @ [Greenspace Mental Health](https://greenspacehealth.ca). Experience with Python, Javascript and Ruby. 
 
-#### 📫 Get in touch
 
-- Email: mattshirley@hey.com
-
-PGP Public Key: [`09DC B978 174B 3F8B`](https://keybase.io/matthewshirley/pgp_keys.asc)
